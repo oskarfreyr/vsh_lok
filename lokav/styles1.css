@@ -1,0 +1,193 @@
+html { 
+  background: url(back1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header
+{
+	max-width: 60em;
+	margin: auto;
+}
+
+section div
+{
+	max-width: 60em;
+	margin: auto;
+}
+
+.col-1-2
+{
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+}
+
+a
+{
+	background-color: black;
+	border-radius: 5px;
+}
+
+section ul a:hover
+{
+	color: white;
+	background-color: grey;
+}
+
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}
+
+header h1
+{
+	border-top: 3px solid white;
+	margin-top: 30px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+header h3
+{
+	text-align: right;
+}
+
+header ul
+{
+	text-align: right;
+	font-size: 0;
+}
+.txt
+{
+	font-family: "Arial Rounded MT Bold";
+	color: #2A7A96 ;
+}
+
+.txt1
+{
+	color: #9AFFEF;
+}
+
+blockquote
+{
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 5px;
+	padding: 15px;
+}
+
+p
+{
+	font-family: "Candara";
+}
+
+section ul
+{
+	background-color: 0;
+	text-align: center;
+	border-radius: 10px;
+	font-size: 0;
+}
+section ul a
+{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 11px;
+	border-left: 1px solid white;
+}
+li{
+	display: inline-block;
+	font-size: 16px;
+}
+section a:last-child
+{
+	border-right: 1px solid white;
+}
+
+.op
+{
+	opcacity: 0;
+}
+
+.txt2
+{
+	color: white;
+}
+
+p
+{
+	color: black;
+	font-size: 16px;
+	font-style: cursive
+}
+
+.paaaa
+{
+	padding:10px;
+}
+
+
+.ananas
+{
+	color: #9AFFEF;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.banani
+{
+	padding-top: 30px;
+}
+
+.txt4
+{
+	margin-top: -270px
+}
+
+.ppap1
+{
+	font-size: 20px;	
+}
+
+.ppap2{
+	width: 432px;
+	padding-left: 450px;
+}
+
+.ppap3
+{
+	margin-top: 50px
+}
+
+.ppap4
+{
+	padding-right: 80px;
+}
+
+.ppap5
+{
+	width: 300px;
+}
+
+.backk
+{
+	align-content: center;
+}
+@media screen and (min-width: 480px) {
+	html { 
+  background: url(back1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+}
